@@ -4,7 +4,7 @@ This repository contains the Jupyter Notebook for "Between-speaker and within-sp
 
 The dataset used can be downloaded here: [https://www.openslr.org/83]
 
-You can view the Notebook [here!](./Notebook.html)
+You can view the Notebook [here!](./Notebook.ipynb)
 
 ## Setup
 To run the notebook yourself, follow these steps:
